@@ -4,5 +4,5 @@
 * [My GitHub page](https://github.com/adieg)
 * [My DEV page](https://dev.to/adieg)
 
-Interesting links
+Interesting links:
 * [OSDC course link](https://osdc.code-maven.com/)
