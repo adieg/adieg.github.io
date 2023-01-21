@@ -1,4 +1,4 @@
-Hi and welcome to my GitHub page
+# Welcome to my GitHub page
 
 * [About me](/about)
 * [My GitHub page](https://github.com/adieg)
